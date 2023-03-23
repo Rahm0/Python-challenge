@@ -5,8 +5,8 @@ import csv
 
 #Path to collect data from Resources folder. 
 
-csvpath = os.path.join("Resources","election_data.csv")
-output_path = os.path.join("analysis","election_analysis.txt")
+csvpath = os.path.join("PyPoll","Resources","election_data.csv")
+output_path = os.path.join("PyPoll","analysis","election_analysis.txt")
 
 #Open csv file as reader.
 

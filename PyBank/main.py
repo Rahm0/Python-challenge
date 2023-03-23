@@ -5,8 +5,8 @@ import csv
 
 #Path to collect data from Resources folder. 
 
-csvpath = os.path.join("Resources","budget_data.csv")
-output_path = os.path.join("analysis","budget_data_analysis.txt")
+csvpath = os.path.join("PyBank","Resources","budget_data.csv")
+output_path = os.path.join("PyBank","analysis","budget_data_analysis.txt")
 
 #Open csv file as reader.
 
